@@ -1,7 +1,7 @@
 # nginx-log-parser
 Python script parses an NGINX access log.
 
-# Description
+## Description
 This python script parses an NGINX access log and counts the total occurrences of a chosen item within the logs and outputs a dictionary. You can run this code using python 2 and 3.
 
 ## Important files
