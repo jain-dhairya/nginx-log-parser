@@ -6,7 +6,9 @@ This python script parses an NGINX access log and counts the total occurrences o
 
 ## Important files
 Input file - input.log (it can be any log file.)
+
 Main python file - main.py (it has the code which basically count the total occurrences)
+
 Output file - output.txt (has the generated output)
 
 ## Summary
